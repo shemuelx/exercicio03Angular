@@ -1,0 +1,20 @@
+input,
+button {
+    font-size: 1em;
+    padding: .5em;    
+}
+
+button {
+    margin-left:20px;
+}
+
+
+.gifs-output {
+    display: flex;
+    flex-flow: row wrap; 
+    justify-items: center;   
+}
+
+.gif {    
+    object-fit: cover;
+}
